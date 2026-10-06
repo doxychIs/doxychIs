@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я dox 👋
 
-<!--
-**doxychIs/doxychIs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Развиваю собственные проекты: сайты, браузерные игры и цифровые эксперименты. Здесь собираю работы и делюсь их развитием.
 
-Here are some ideas to get you started:
+**[Открыть моё портфолио →](https://doxychis.github.io/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+| Проект | Описание | Посмотреть |
+| --- | --- | --- |
+| AURA | Сайт салона красоты на Astro и TypeScript с интерактивным подбором ухода «Ритуал AURA». | [Открыть сайт](https://doxychis.github.io/aura/) |
+| 86 ЦЕХ | Браузерный промышленный кликер: производство, роботы и развитие от гаража до космоса. Проект в разработке. | [Играть](https://doxychis.github.io/86-ceh/) |
+
+## С чем работаю в проектах
+
+HTML · CSS · JavaScript · TypeScript · Astro
+
+Мне интересно делать проекты с собственным настроением: продумывать оформление, взаимодействия и игровые механики.
